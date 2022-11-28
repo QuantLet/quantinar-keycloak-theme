@@ -6,7 +6,7 @@ export default defineConfig({
       input: 'src/index.ts',
       output: {
         assetFileNames: '[name][extname]',
-        dir: 'theme/keywind/login/resources/dist',
+        dir: 'theme/quantinar/login/resources/dist',
         entryFileNames: '[name].js',
       },
     },
