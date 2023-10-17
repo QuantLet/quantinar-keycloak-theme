@@ -11,7 +11,7 @@ export default defineConfig({
       ],
       output: {
         assetFileNames: '[name][extname]',
-        dir: 'theme/quantinar/login/resources/dist',
+        dir: 'theme/keywind/login/resources/dist',
         entryFileNames: '[name].js',
       },
     },
