@@ -1,16 +1,16 @@
-<#import "./provider/bitbucket.ftl" as bitbucketIcon>
-<#import "./provider/facebook.ftl" as facebookIcon>
-<#import "./provider/github.ftl" as githubIcon>
-<#import "./provider/gitlab.ftl" as gitlabIcon>
-<#import "./provider/google.ftl" as googleIcon>
-<#import "./provider/instagram.ftl" as instagramIcon>
-<#import "./provider/linkedin.ftl" as linkedinIcon>
-<#import "./provider/microsoft.ftl" as microsoftIcon>
-<#import "./provider/oidc.ftl" as oidcIcon>
-<#import "./provider/openshift.ftl" as openshiftIcon>
-<#import "./provider/paypal.ftl" as paypalIcon>
-<#import "./provider/stackoverflow.ftl" as stackoverflowIcon>
-<#import "./provider/twitter.ftl" as twitterIcon>
+<#import "provider/bitbucket.ftl" as bitbucketIcon>
+<#import "provider/facebook.ftl" as facebookIcon>
+<#import "provider/github.ftl" as githubIcon>
+<#import "provider/gitlab.ftl" as gitlabIcon>
+<#import "provider/google.ftl" as googleIcon>
+<#import "provider/instagram.ftl" as instagramIcon>
+<#import "provider/linkedin.ftl" as linkedinIcon>
+<#import "provider/microsoft.ftl" as microsoftIcon>
+<#import "provider/oidc.ftl" as oidcIcon>
+<#import "provider/openshift.ftl" as openshiftIcon>
+<#import "provider/paypal.ftl" as paypalIcon>
+<#import "provider/stackoverflow.ftl" as stackoverflowIcon>
+<#import "provider/twitter.ftl" as twitterIcon>
 
 <#macro bitbucket>
   <@bitbucketIcon.kw />

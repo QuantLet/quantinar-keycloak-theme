@@ -1,4 +1,4 @@
-<#import "./icon/provider.ftl" as iconProvider>
+<#import "icon/provider.ftl" as iconProvider>
 
 <#macro kw>
   <div class="pt-4 separate text-secondary-600 text-sm">${msg("identity-provider-login-label")}</div>
