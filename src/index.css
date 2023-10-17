@@ -30,4 +30,10 @@
   .separate:not(:empty)::before {
     @apply mr-2;
   }
+
+}
+
+.background-quantinar {
+    background: url("../img/background-quantinar.jpeg") no-repeat center center fixed;
+    background-size: cover; 
 }
